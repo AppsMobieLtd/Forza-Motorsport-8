@@ -19,10 +19,10 @@
   
   "Ads Explanation": " applovin | admob | yandex ",
 
-  "Interstitial": "admob",
-  "Banner": "admob",
-  "Native": "admob",
-  "Rewarded": "admob",
+  "Interstitial": "yandex",
+  "Banner": "yandex",
+  "Native": "yandex",
+  "Rewarded": "yandex",
   
   
   "start_inter": true,
