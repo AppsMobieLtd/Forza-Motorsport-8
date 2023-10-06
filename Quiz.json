@@ -3,22 +3,22 @@
   "quizes": [
 	{
 		
-	 "question": "how many pyramides are in egypte?",
+	 "question": "How many toy cars are Forza Motorsport 8 ?",
       
-	 "answer_1": "Three pyramides",
-	 "answer_2": "four pyramides",
-	 "answer_3": "five pyramides",
+	 "answer_1": "499",
+	 "answer_2": "321",
+	 "answer_3": "100",
 	 
 	 "correct": 1
       
 	},
 	{
 	  
-	 "question": "What is Choo Choo Charles?",
+	 "question": "Number of game paths Forza Motorsport 8 ?",
       
-	 "answer_1": "Spider Train",
-	 "answer_2": "Spider Man",
-	 "answer_3": "Spider Car",
+	 "answer_1": "20",
+	 "answer_2": "18",
+	 "answer_3": "8",
 	 
 
 	 "correct": 1
@@ -26,11 +26,11 @@
 	},
 	{
 	  
-	 "question": "What is 1X Bet",
+	 "question": "Number of copies sold for the game Forza Motorsport ?",
       
-	 "answer_1": "A dating app",
-	 "answer_2": "A betting app",
-	 "answer_3": "A cooking app",
+	 "answer_1": "10 million",
+	 "answer_2": "16 million",
+	 "answer_3": "13 million",
 	 
 
 	 "correct": 2
@@ -38,11 +38,11 @@
 	},
 	{
 	  
-	 "question": "Which one doesn't belong to Poppy Playtime?",
+	 "question": "How many main installments are in the Forza series ?",
       
-	 "answer_1": "Huggy Wuggy",
-	 "answer_2": "Kissy Missy",
-	 "answer_3": "The Man From The Window",
+	 "answer_1": "2",
+	 "answer_2": "10",
+	 "answer_3": "13",
 	 
 
 	 "correct": 3
@@ -50,11 +50,11 @@
 	},
 	{
 	  
-	 "question": "How many USLs does Real Madrid have?",
+	 "question": "What markets will the game be available in?",
       
-	 "answer_1": "13 Champions Leage",
-	 "answer_2": "12 Champions Leage",
-	 "answer_3": "14 Champions Leage",
+	  "answer_1": "Windows",
+	 "answer_2": "Xbox",
+	 "answer_3": "PS5",
 	 
 
 	 "correct": 3
@@ -62,11 +62,11 @@
 	},
 	{
 	 
-	 "question": "Which one is a programming language?",
+	 "question": "What is Forza Motorsport’s release date?",
      
-	 "answer_1": "English",
-	 "answer_2": "Kotlin",
-	 "answer_3": "Arabic",
+	 "answer_1": "Novembre 10, 2023",
+	 "answer_2": "October 10, 2023",
+	 "answer_3": "Décembre 10, 2023",
 	 
 	 "correct": 2
       
